@@ -1,0 +1,14 @@
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\obj\Debug\net9.0-windows\ReatorNuclear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\obj\Debug\net9.0-windows\ReatorNuclear.AssemblyInfoInputs.cache
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\obj\Debug\net9.0-windows\ReatorNuclear.AssemblyInfo.cs
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\obj\Debug\net9.0-windows\ReatorNuclear.csproj.CoreCompileInputs.cache
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\bin\Debug\net9.0-windows\ReatorNuclear.exe
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\bin\Debug\net9.0-windows\ReatorNuclear.deps.json
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\bin\Debug\net9.0-windows\ReatorNuclear.runtimeconfig.json
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\bin\Debug\net9.0-windows\ReatorNuclear.dll
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\bin\Debug\net9.0-windows\ReatorNuclear.pdb
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\obj\Debug\net9.0-windows\ReatorNuclear.dll
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\obj\Debug\net9.0-windows\refint\ReatorNuclear.dll
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\obj\Debug\net9.0-windows\ReatorNuclear.pdb
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\obj\Debug\net9.0-windows\ReatorNuclear.genruntimeconfig.cache
+C:\Users\milha\Desktop\Guardar para formatacao\C#\ReatorNuclear\obj\Debug\net9.0-windows\ref\ReatorNuclear.dll
